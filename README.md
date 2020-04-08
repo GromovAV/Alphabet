@@ -39,13 +39,13 @@ Sample
 
 Input
 
-Output
 4
 hi
 yes
 foo  bar
 hello world
 
+Output
 Case #1: 44 444
 Case #2: 999337777
 Case #3: 333666 6660 022 2777
